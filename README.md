@@ -10,4 +10,4 @@ Team Members:
 ## Dataset
 [Resume Dataset](https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset)
 
-*Extract the "Resume.csv" into the project directory*
+*Extract the "Resume.csv"*
