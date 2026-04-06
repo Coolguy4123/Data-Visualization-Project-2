@@ -11,3 +11,5 @@ Team Members:
 [Resume Dataset](https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset)
 
 *Extract the "Resume.csv"*
+
+*** Notebook was developed using Google Colab
